@@ -6,9 +6,22 @@ The average error of the localization based on the proposed model is **3.86mm** 
 - :heavy_check_mark: The visualized results of our work can be found in [our project page](https://rpen-bmxs.netlify.app/).
 - :black_square_button: The whole code and dataset will be public when the paper :page_with_curl: is published.
 
-# Implementation Details
+## Implementation Details
 OS: **Ubuntu 22.04**
 
 Main Requirements: **Pytorch 1.13.1 + CUDA 11.7**
+
+## Dataset
+The examples from the dataset can be found in [here](/data). The structure of the dataset is shown as below:
+data
+|——S1
+   |—— Frames  # frames of the endoscopic video
+   |   |—— 1.jpg
+   |   |—— 2.jpg
+   |   |—— ......
+   |—— traj.xlsx # poses of nasal endoscope in the video
+   
+
+The visualizations of the dataset are shown below:
 
 
