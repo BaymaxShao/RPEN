@@ -8,6 +8,7 @@ The average error of the localization based on the proposed model is **3.86mm** 
 
 # Implementation Details
 OS: **Ubuntu 22.04**
+
 Main Requirements: **Pytorch 1.13.1 + CUDA 11.7**
 
 
