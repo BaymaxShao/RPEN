@@ -4,6 +4,7 @@ This is the official impementation of the paper 'A Multiple Feature Learning Fra
 The average error of the localization based on the proposed model is **3.86mm** and the average error of direction prediction is **2.55 degree**, while the relative translation error and rotation error are **0.43mm** and **0.2 degree** in average. In addition, the average inference speed of the proposed framework is faster than 40fps, which achieves the real-time requirement.
 
 - :heavy_check_mark: The visualized results of our work can be found in [our project page](https://rpen-bmxs.netlify.app/).
+- :heavy_check_mark: The visualized results of the dataset can be found here.
 - :black_square_button: The whole code and dataset will be public when the paper :page_with_curl: is published.
 
 ## Implementation Details
@@ -15,6 +16,15 @@ Main Requirements: **Pytorch 1.13.1 + CUDA 11.7**
 The examples from the dataset can be found in [here](/data). The structure of the dataset is shown as below:
 ![image](https://github.com/BaymaxShao/RPEN/assets/91866296/5c526c75-700c-4ae7-a039-401d4eba634a)
 
-The visualizations of the dataset are shown below:
+The visualizations of 10 samples from the dataset are shown below:
 
+<img src="/vis_data/1.gif" width="400px"> <img src="/vis_data/2.gif" width="400px">
+
+<img src="/vis_data/3.gif" width="400px"> <img src="/vis_data/4.gif" width="400px">
+
+<img src="/vis_data/5.gif" width="400px"> <img src="/vis_data/6.gif" width="400px">
+
+<img src="/vis_data/7.gif" width="400px"> <img src="/vis_data/8.gif" width="400px">
+
+<img src="/vis_data/9.gif" width="400px"> <img src="/vis_data/10.gif" width="400px">
 
