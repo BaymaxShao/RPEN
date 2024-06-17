@@ -18,13 +18,13 @@ The examples from the dataset can be found in [here](/data). The structure of th
 
 The visualizations of 10 samples from the dataset are shown below:
 
-<img src="/vis_data/1.gif" width="400px"> <img src="/vis_data/2.gif" width="400px">
+<img src="/data_vis/1.gif" width="400px"> <img src="/data_vis/2.gif" width="400px">
 
-<img src="/vis_data/3.gif" width="400px"> <img src="/vis_data/4.gif" width="400px">
+<img src="/data_vis/3.gif" width="400px"> <img src="/data_vis/4.gif" width="400px">
 
-<img src="/vis_data/5.gif" width="400px"> <img src="/vis_data/6.gif" width="400px">
+<img src="/data_vis/5.gif" width="400px"> <img src="/data_vis/6.gif" width="400px">
 
-<img src="/vis_data/7.gif" width="400px"> <img src="/vis_data/8.gif" width="400px">
+<img src="/data_vis/7.gif" width="400px"> <img src="/data_vis/8.gif" width="400px">
 
-<img src="/vis_data/9.gif" width="400px"> <img src="/vis_data/10.gif" width="400px">
+<img src="/data_vis/9.gif" width="400px"> <img src="/data_vis/10.gif" width="400px">
 
