@@ -13,18 +13,8 @@ OS: **Ubuntu 22.04**
 Main Requirements: **Pytorch 1.13.1 + CUDA 11.7**
 
 ## Dataset
-The examples from the dataset can be found in [here](/data). The structure of the dataset is shown as below:
-![image](https://github.com/BaymaxShao/RPEN/assets/91866296/5c526c75-700c-4ae7-a039-401d4eba634a)
+The examples from the dataset can be found in [here](/data).
 
-The visualizations of 10 samples from the dataset are shown below:
+The project of the dataset can be found at [here](https://github.com/BaymaxShao/NEPose)
 
-<img src="/data_vis/1.gif" width="400px"> <img src="/data_vis/2.gif" width="400px">
-
-<img src="/data_vis/3.gif" width="400px"> <img src="/data_vis/4.gif" width="400px">
-
-<img src="/data_vis/5.gif" width="400px"> <img src="/data_vis/6.gif" width="400px">
-
-<img src="/data_vis/7.gif" width="400px"> <img src="/data_vis/8.gif" width="400px">
-
-<img src="/data_vis/9.gif" width="400px"> <img src="/data_vis/10.gif" width="400px">
 
